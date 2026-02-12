@@ -12,8 +12,11 @@ The layout is built using Flexbox and is fully responsive using CSS media querie
 Technologies Used:
 
 1.HTML5
+
 2.CSS3
+
 3.Flexbox
+
 4.Media Queries
 5.VS Code
 6.Live Server
