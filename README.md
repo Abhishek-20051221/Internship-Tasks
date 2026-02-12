@@ -49,3 +49,4 @@ The objective of this project is to demonstrate understanding of:
 2.CSS layout using Flexbox
 3.Responsive design principles
 4.Clean UI styling
+
